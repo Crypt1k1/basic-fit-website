@@ -7,6 +7,9 @@
     <title>Document</title>
 </head>
 <body>
+    <?php
+
+    ?>
     <header>
         <nav>
             <ul>
@@ -34,5 +37,6 @@
             </ul>
         </nav>
         </header>
+        
 </body>
 </html>
