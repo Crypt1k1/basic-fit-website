@@ -27,7 +27,7 @@ ul li{
 
 }
 .sub{
-    background-color: brown;
+    background-color: rgb(68, 68, 68);
     position: relative;
 }
 ul li a{
@@ -54,8 +54,15 @@ main {
 h2{background-color: rgba(253, 253, 253, 0.945);
 opacity: 0.8;
 margin-top: 10px;
-width: 800px;
+width: 80%;
 padding: 20px;
 padding-top: 10px;
 color: black;
+}
+video{
+    padding: 5vh;
+    margin: 10vh;
+    display: flex;
+    align-items: center;
+    width: 10vw;
 }

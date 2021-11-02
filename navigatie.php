@@ -15,8 +15,8 @@
             <ul>
                 <li><a>abonnement</a>
                     <ul>
-                        <li class="Basis"><a href="maandabonament">maandabonament</a></li>
-                        <li class="Video"><a href="2">jaarabonament</a></li>
+                        <li class="sub"><a href="maandabonament">maandabonament</a></li>
+                        <li class="sub"><a href="2">jaarabonament</a></li>
                     </ul>
                 </li>
                 <li><a>sport producten</a>
