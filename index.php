@@ -14,18 +14,17 @@
 <?php
 include("navigatie.php");
 ?>  
-<section class="video">
-    <video autoplay loop muted>
-        <source src="video/Workout.mp4" type=video/mp4 width=5px height=50px>
+<main>
+    <video class="work" autoplay loop muted>
+        <source src="video/Workout.mp4" type=video/mp4 >
     </video>
-</section>
-    <main>
-        <p class="intro">
-            <h2>
-                Welkom bij mij website
-            </h2>
-        </p>
-    </main>
+    
+
+</main>
+<main>
+    <p><h2>Welcome bij ons website</h2></p>
+        
+
 
 </body>
 

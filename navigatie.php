@@ -30,7 +30,7 @@
                 </li>
                 <li><a>contact nemen</a>
                 </li>
-                <li><a>OVER ONS</a>
+                <li><a>Over ons</a>
                 </li>
     
     
