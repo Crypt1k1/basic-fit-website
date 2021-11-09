@@ -1,12 +1,11 @@
-body {
-    background-size: cover;
-
+body{
     font-family: 'Varela Round', sans-serif;
     min-height: 100vh;
+    background-color: darkslategray;
 }
 nav {
     width: 100%;
-    position: fixed;
+    position: absolute;
     top: 0;
     left:0;
     background-color: black;
@@ -27,7 +26,7 @@ ul li{
 
 }
 .sub{
-    background-color: brown;
+    background-color: rgb(68, 68, 68);
     position: relative;
 }
 ul li a{
@@ -36,7 +35,7 @@ ul li a{
 }
 ul li a:hover {
 background-color: green;
-size: 300px;
+size: 30px;
 height: 40px;
 }
 ul li ul li {
@@ -46,16 +45,19 @@ ul li:hover ul li {
     display: block;
 }
 main {
-    position: absolute;
-    margin-top: 25vh;
+    margin-top: 25%;
 }
 
 
-h2{background-color: rgba(253, 253, 253, 0.945);
-opacity: 0.8;
+h2{
+background-color: orangered;
+opacity: 0,5;
 margin-top: 10px;
-width: 800px;
-padding: 20px;
-padding-top: 10px;
-color: black;
+
+
+}
+
+.work{
+    width: 100%;
+    margin-top: 17%;
 }

@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -16,45 +16,17 @@ include("navigatie.php");
 ?>  
     <style>
 
-        body {
-            background-image: url("pictures/gym.jpg");
-           }
-           </style>
-    <header>
-    <nav>
-        <ul>
-            <li><a>abonnement</a>
-                <ul>
-                    <li class="Basis"><a href="maandabonament">maandabonament</a></li>
-                    <li class="Video"><a href="2">jaarabonament</a></li>
-                </ul>
-            </li>
-            <li><a>sport producten</a>
-                <ul>
-                    <li class="sub"><a href="">heren</a></li>
-                    <li class="sub"><a href="">dames</a></li>
-                    <li class="sub"><a href="#">train at home</a></li>
-                    <li class="sub"><a>protein shakes</a></li>
-
-                </ul>
-            </li>
-            <li><a>contact nemen</a>
-            </li>
-            <li><a>OVER ONS</a>
-            </li>
-
-
-        </ul>
-    </nav>
-    </header>
-    <main>
-        <p class="intro">
-            <h2>
-                Welkom bij mij website
-            </h2>
-        </p>
-    </main>
+body {
+    background-color: darkslategray;
+   }
+   </style>
+<main>
+    <video class="work" autoplay loop muted>
+        <source src="video/Workout.mp4" type=video/mp4 >
+    </video>
+    
+    <p><h2>Welcome bij ons website</h2></p>
+</main>
 
 </body>
-
 </html>
