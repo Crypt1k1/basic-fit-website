@@ -50,14 +50,35 @@ main {
 
 
 h2{
-background-color: orangered;
-opacity: 0.5;
-margin-top: 10px;
+background-color: gray;
+opacity: 0,5;
+margin-top: 27vh;
 
 
 }
 
 .work{
     width: 100%;
-    margin-top: 17%;
+    margin-top: 2%;
+}
+.down{
+    margin-top: -80vh;
+}
+h1 {
+    display: block;
+    font-size: 5em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    margin-top: -38vh;
+    color: white;
+    text-align: center;
+}
+main{
+    margin-top: 10vh;
+}
+h3{
+
 }
