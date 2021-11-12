@@ -79,6 +79,10 @@ h1 {
 main{
     margin-top: 10vh;
 }
-h3{
 
+.ticket{
+    background-color: white;
+    width: 28vh;
+    height: 0;
+    padding-bottom: 27vh;
 }

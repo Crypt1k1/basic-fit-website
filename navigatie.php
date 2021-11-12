@@ -23,7 +23,7 @@
         </label>
         <a href="index.html" class="logo">Fit in time</a>
         <ul class="navlinks">
-          <li><a href="abo.html">abonament</a></li>
+          <li><a href="abo.php">abonament</a></li>
           <li><a href="#">kleding</a></li>
           <li><a href="#">producten</a></li>
           <li><a href="#">About</a></li>

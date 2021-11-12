@@ -110,3 +110,9 @@ li a.contact:hover {
     color: blue;
   }
 }
+.ticket{
+    background-color: white;
+    width: 28vh;
+    height: 0;
+    padding-bottom: 27vh;
+}
